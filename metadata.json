@@ -1,0 +1,7 @@
+{
+  "name": "Rental Item Verifier",
+  "description": "A simple application for rental shop workers to verify returned items using a phone camera and AI-powered item detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
